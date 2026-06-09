@@ -1,8 +1,8 @@
-# CourierRush 2D — Skeleton Project
+# CourierRush 2D
 
-Skeleton project for the Module 4 driving game built in Unity. In this module, you will create a complete top-down driving game with car movement, an infinite procedurally generated road network, a navigation system, and a score counter.
+Project for the Module 4 driving game built in Unity. Create a complete top-down driving game with car movement, an infinite procedurally generated road network, a navigation system, and a score counter.
 
-This repository contains the starting files and assets used throughout the lectures. The gameplay systems are intentionally incomplete so you can build them step-by-step during the module.
+This repository contains the starting files and assets used throughout the lectures.
 
 ---
 
