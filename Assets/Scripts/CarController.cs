@@ -9,7 +9,7 @@ public class CarController : MonoBehaviour
     float maxSpeed = 6f;
     float turnSpeed = 200f;
     float currentSpeed = 0f;
-    public float oilSlowFactor = 0.5f;
+    public float oilSlowFactor = 0.8f;
 
     void Start()
     {
